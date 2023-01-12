@@ -1,0 +1,11 @@
+--2023-01-11 20:14:23--  https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c2087eff354d44aba0b5c43c541e1fad/BFV35429_FlamingHotCheetoBurrito_FB.jpg?resize=1000:*
+Resolving img.buzzfeed.com (img.buzzfeed.com)... 151.101.182.114
+Connecting to img.buzzfeed.com (img.buzzfeed.com)|151.101.182.114|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 151585 (148K) [image/jpeg]
+Saving to: ‘BFV35429_FlamingHotCheetoBurrito_FB.jpg?resize=1000:*’
+
+                     BFV35429_FlamingHotCh   0%[                                                                                       ]       0  --.-KB/s               BFV35429_FlamingHotCheetoBurrito_FB.jpg?re 100%[======================================================================================>] 148.03K  --.-KB/s    in 0.06s   
+
+2023-01-11 20:14:24 (2.43 MB/s) - ‘BFV35429_FlamingHotCheetoBurrito_FB.jpg?resize=1000:*’ saved [151585/151585]
+
